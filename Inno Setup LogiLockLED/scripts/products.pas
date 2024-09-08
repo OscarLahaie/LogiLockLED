@@ -279,7 +279,7 @@ function IsIA64: Boolean;
 	Gets whether the computer is IA64 (Itanium 64 bits).
 }
 begin
-	Result := (not isForcedX86) and Is64BitInstallMode and (ProcessorArchitecture = paIA64);
+	Result := (not isForcedX86) and Is64BitInstallMode;
 end;
 
 function GetString(x86, x64, ia64: String): String;

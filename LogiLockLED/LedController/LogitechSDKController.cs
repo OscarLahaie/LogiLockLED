@@ -62,7 +62,7 @@ namespace LogiLockLED
                     return false;
             }
             
-            return LogitechGSDK.LogiLedSetLightingForKeyWithKeyName(keyCode, color.R * 100 / 255, color.G * 100 / 255, color.B * 100 / 255);
+            return LogitechGSDK.LogiLedSetLighting(color.R * 100 / 255, color.G * 100 / 255, color.B * 100 / 255);
         }      
        
     }
