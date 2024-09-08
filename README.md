@@ -1,4 +1,4 @@
-# Modification compare to the original
+# Modification compared to the original
 I've only changed the software to modify the whole keyboard lighting by default. It is for all locks and there is no option to change it !  
 
 # LogiLockLED
