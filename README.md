@@ -1,3 +1,6 @@
+# Modification compare to the original
+I've only changed the software to modify the whole keyboard lighting by default. It is for all locks and there is no option to change it !  
+
 # LogiLockLED
 LogiLockLED is a system tray application that makes it easier to monitor Num, Caps and Scroll lock states.  Some modern keyboards and laptops do not have indicator lights for some of these keys and could cause frustration.  This is where LogiLockLED can help.
 
